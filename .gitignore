@@ -1,0 +1,138 @@
+/workspace/reinforcement_learning/IsaacGymEnvs/isaacgymenvs/runs/
+/workspace/reinforcement_learning/IsaacGymEnvs/isaacgymenvs/videos/
+/workspace/reinforcement_learning/IsaacGymEnvs/isaacgymenvs/wandb/
+
+# Attention masks и выходы моделей (добавить для вашего проекта)
+attention_masks/
+attention_outputs/
+my_attention_outputs/
+inference_attention/
+*.pkl
+*.npz
+
+# Кэш интерпретатора
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Настройки IDE / редакторов
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+
+# Логи и мониторинг
+*.log
+logs/
+tensorboard_logs/
+tb_logs/
+
+# Wandb (если не хотите сохранять локальные файлы)
+wandb/
+.wandb/
+
+# Тестовые отчёты и покрытия
+.coverage
+*.cover
+htmlcov/
+.tox/
+.pytest_cache/
+.nox/
+
+# Сборочные артефакты
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Кэш пакетов
+__pypackages__/
+pip-wheel-metadata/
+
+# PyTorch специфичные файлы
+*.pth
+*.pt
+checkpoints/
+saved_models/
+
+# Isaac Gym специфичные файлы
+*.so
+*.dll
+*.dylib
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Файлы конфигурации (если содержат секретные данные)
+# config_local.yaml
+# secrets.yaml
+
+# Большие файлы данных
+*.hdf5
+*.h5
+dataset/
+data/
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
