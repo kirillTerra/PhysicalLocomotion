@@ -1,6 +1,3 @@
-Отлично 👍 Тогда финальная версия README на английском с твоей фразой будет выглядеть так:
-
----
 
 # PhysicalLocomotion
 
@@ -23,7 +20,7 @@ The Exp Decay Transformer demonstrates a clear dominance in performance, support
 
 
 This repository was the foundation of my **thesis project**.
-The text and presentation of my work can be found in the corresponding files inside this repo.
+The text and presentation of my work can be found in the corresponding files inside this repo (`Bachelor_Thesis.pdf` and `presentation.pdf`).
 
 ---
 
