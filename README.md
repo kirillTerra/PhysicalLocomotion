@@ -10,6 +10,7 @@ I extend the authors’ idea and introduce several new features:
 1. **Exponentially decaying masks** — allowing more flexible attention suppression.
 2. **Training & testing interface** — designed for policy learning and subsequent evaluation with full logging of intermediate attention matrices for further analysis.
 3. **Custom masking based on attention analysis** — which not only speeds up computation but also improves overall quality.
+For more details, please refer to the thesis text: `Bachelor_Thesis.pdf` and the presentation: `presentation.pdf`.
 
 <p align="center">
   <img src="comparison.png" alt="Comparison" width="700"/>
